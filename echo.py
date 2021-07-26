@@ -1,1 +1,1 @@
-print("Hello\n"*10)
+print("Hellhjdho\n"*10)
